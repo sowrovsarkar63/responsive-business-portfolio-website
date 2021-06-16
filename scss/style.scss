@@ -1,0 +1,20 @@
+// Import custom
+@use './custom';
+
+// Import components
+@use './components/animations';
+@use './components/buttons';
+@use './components/mixins';
+@use './components/typography';
+
+// Import section
+@use '../scss/sections/navbar';
+
+@use '../scss/sections/intro-section';
+@use '../scss/sections/companies';
+@use '../scss/sections/services';
+@use '../scss/sections/testimonial';
+@use '../scss/sections/faq';
+@use '../scss/sections/portfolio';
+@use '../scss/sections/get-started';
+@use '../scss/sections/footer';
